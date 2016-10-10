@@ -1,5 +1,5 @@
 # Visualization
-Project 1: Visualizztion time series data
+Project 1: Visualization time series data
 
 
 This Project Visualization of Unemployment rate for United States. 
