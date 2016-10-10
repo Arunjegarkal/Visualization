@@ -1,8 +1,8 @@
 # Visualization
-Project 1: Visualization time series data
+Project 1: Visualizing time series data
 
 
-This Project Visualization of Unemployment rate for United States. 
+This Project is Visualization of Unemployment rate for United States. 
 It provides 
 -option to compare National unemployment rate with diffrent states unemployment rate
 -zoom into time interval
