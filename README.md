@@ -1,9 +1,6 @@
 ##Visualizing time series data
 
-#Data Collection
-We have collected  United states unemployment rate data from Bureau of Labor Statistics website. Data is avilable from 1976 to Aug 2016.
-
-#Abstruct
+#Abstract
 
 This Project is Visualization of Unemployment rate for United States. 
 It provides following options
@@ -14,6 +11,10 @@ It provides following options
 	* Compare all the states unemplyment rate.
 	* Unselecte the selected states from the map.
 	* Clear selected states.
+
+
+#Data Collection
+We have collected  United states unemployment rate data from Bureau of Labor Statistics website. Data is avilable from 1976 to Aug 2016.
 
 #Screenshots
 Home Page
@@ -55,8 +56,8 @@ Select the states on map for comparition
 	
 #Github link for the Project  
 
-	https://arunjegarkal.github.io/Visualization/Unemployment_Rate.html
+https://arunjegarkal.github.io/Visualization/Unemployment_Rate.html
 
 #Link for Video
 
-  	https://github.com/Arunjegarkal/Visualization/blob/master/Video%20for%20%20Project%20-%20Time%20series%20data%20Visualization.mp4
+  https://github.com/Arunjegarkal/Visualization/blob/master/Video%20for%20%20Project%20-%20Time%20series%20data%20Visualization.mp4
