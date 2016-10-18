@@ -30,22 +30,26 @@ Black line show's the National unemployment rate and the Green line show's the u
 ![compare national unemployment with other state](https://cloud.githubusercontent.com/assets/22176809/19462582/7f1ce65c-94b3-11e6-8d87-61df9c253906.png)
 
 Zoom into time interval
-	Selection interval is from 1995 to 1998.
+
+Selection interval is from 1995 to 1998.
 
 ![zoom into time interval](https://cloud.githubusercontent.com/assets/22176809/19462586/8bc7d1b4-94b3-11e6-886e-a5ca23ccae79.png)
 
 Tooltip 
+
 Mouse over on a line for Tooltip.
 
 ![tool tip](https://cloud.githubusercontent.com/assets/22176809/19462590/969babe2-94b3-11e6-8e3a-a5e76c246b9c.png)
 
 Comparing All states
-	Click "All states" for Compating all the states.
+
+Click "All states" for Compating all the states.
 
 ![all states](https://cloud.githubusercontent.com/assets/22176809/19462598/a9ee0dca-94b3-11e6-8159-ddb072ec557e.png)
 	
 Multiple states
-	Select the states on map for comparition
+
+Select the states on map for comparition
 
 ![multiple states](https://cloud.githubusercontent.com/assets/22176809/19462603/b3aace52-94b3-11e6-8485-5826f2b62a37.png)
 	
