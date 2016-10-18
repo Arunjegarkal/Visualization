@@ -1,11 +1,11 @@
 ##Visualizing time series data
 
-##Data Collection
+#Data Collection
 We have collected  United states unemployment rate data from Bureau of Labor Statistics website. Data is avilable from 1976 to Aug 2016.
 
-##Abstruct
- 
-#This Project is Visualization of Unemployment rate for United States. 
+#Abstruct
+
+This Project is Visualization of Unemployment rate for United States. 
 It provides 
 	* Option to compare National unemployment rate with diffrent states unemployment rate. 
 	* Zoom into time interval. 
