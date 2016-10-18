@@ -34,8 +34,8 @@ Zoom into time interval
 
 ![zoom into time interval](https://cloud.githubusercontent.com/assets/22176809/19462586/8bc7d1b4-94b3-11e6-886e-a5ca23ccae79.png)
 
-Tooltip
-	Mouse over on a line for Tooltip.
+Tooltip 
+Mouse over on a line for Tooltip.
 
 ![tool tip](https://cloud.githubusercontent.com/assets/22176809/19462590/969babe2-94b3-11e6-8e3a-a5e76c246b9c.png)
 
