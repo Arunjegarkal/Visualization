@@ -60,5 +60,5 @@ https://arunjegarkal.github.io/Visualization/Unemployment_Rate.html
 
 #Link for Video
 
-![video]((https://cloud.githubusercontent.com/assets/22176809/19463747/41bd145e-94bc-11e6-8726-960ab42eb5da.png)(https://youtu.be/MljPfzR2tIM))
+![video](https://cloud.githubusercontent.com/assets/22176809/19463747/41bd145e-94bc-11e6-8726-960ab42eb5da.png)(https://youtu.be/MljPfzR2tIM)
 
