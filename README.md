@@ -25,7 +25,7 @@ Time series visualization in line graph. Map in the left allows user to select/ 
 
 Compartion National Unemployment rate to other states 
 
-	Black line show's the National unemployment rate and the Green line show's the unemployment rate for Texas state.
+Black line show's the National unemployment rate and the Green line show's the unemployment rate for Texas state.
 
 ![compare national unemployment with other state](https://cloud.githubusercontent.com/assets/22176809/19462582/7f1ce65c-94b3-11e6-8d87-61df9c253906.png)
 
