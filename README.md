@@ -6,8 +6,8 @@ We have collected  United states unemployment rate data from Bureau of Labor Sta
 #Abstruct
 
 This Project is Visualization of Unemployment rate for United States. 
-It provides 
-	* Option to compare National unemployment rate with diffrent states unemployment rate. 
+It provides following options
+	* Compare National unemployment rate with diffrent states unemployment rate. 
 	* Zoom into time interval. 
 	* Select States from the map.
 	* Select multiple states from map.
@@ -18,8 +18,7 @@ It provides
 #Screenshots
 Home Page
 
-	Time series visualization in line graph. Map in the left allows user to select/ unselect the states for visualization. Button "National
-Unemployment Rate" allows to select and unselect Nation unemployment rate for comparition with other states. Button "Select All States" allows user to compate unemployment of all the states. Button "Clear Selection" allows user to Clear all the selection
+Time series visualization in line graph. Map in the left allows user to select/ unselect the states for visualization. Button "National Unemployment Rate" allows to select and unselect Nation unemployment rate for comparition with other states. Button "Select All States" allows user to compate unemployment of all the states. Button "Clear Selection" allows user to Clear all the selection
 
 ![home](https://cloud.githubusercontent.com/assets/22176809/19462573/6a572db8-94b3-11e6-9d35-b7c517f0fc45.png)
 
@@ -56,4 +55,4 @@ Multiple states
 
 #Link for Video
 
-  https://github.com/Arunjegarkal/Visualization/blob/master/Video%20for%20%20Project%20-%20Time%20series%20data%20Visualization.mp4
+  	https://github.com/Arunjegarkal/Visualization/blob/master/Video%20for%20%20Project%20-%20Time%20series%20data%20Visualization.mp4
